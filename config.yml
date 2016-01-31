@@ -1,0 +1,39 @@
+death-signs: true
+found-diamonds: true
+deathban-time: 60000
+end:
+  open: true
+  exitLocation:
+    worldName: world
+    worldUID: 99b9c8d6-76a9-4b41-9328-231f81719394
+    x: '0.5'
+    y: '77.0'
+    z: '0.5'
+    pitch: '0.0'
+    yaw: '0.0'
+enchant-limits:
+  PROTECTION_ENVIRONMENTAL: 3
+  PROTECTION_FIRE: 3
+  SILK_TOUCH: 1
+  DURABILITY: 3
+  PROTECTION_EXPLOSIONS: 3
+  LOOT_BONUS_BLOCKS: 3
+  PROTECTION_PROJECTILE: 3
+  OXYGEN: 3
+  WATER_WORKER: 1
+  THORNS: 0
+  DAMAGE_ALL: 3
+  ARROW_KNOCKBACK: 1
+  KNOCKBACK: 1
+  FIRE_ASPECT: 1
+  LOOT_BONUS_MOBS: 3
+  LUCK: 3
+  LURE: 3
+potion-limits:
+  STRENGTH: 0
+  INVISIBILITY: 0
+  REGEN: 0
+  WEAKNESS: 0
+  INSTANT_DAMAGE: 0
+  SLOWNESS: 1
+  POISON: 1
